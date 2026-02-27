@@ -709,3 +709,16 @@ section { padding:8rem 0; }
   border: 1px solid rgba(231, 76, 60, 0.4);
   color: #e74c3c;
 }
+
+/* ===== SITE THEME: Precision Emerald ===== */
+:root {
+    --primary: #34d399;
+    --primary-dark: #10b981;
+    --accent: #0d9488;
+    --bg-dark: #040f0a;
+    --bg-darker: #020804;
+    --bg-card: #081a10;
+    --font-heading: 'Turret Road', sans-serif;
+    --font-body: 'Inter', sans-serif;
+}
+.site-header { background: rgba(4,15,10,0.85); }
